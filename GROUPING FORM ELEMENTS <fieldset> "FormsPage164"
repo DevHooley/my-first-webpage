@@ -1,0 +1,9 @@
+<fieldset>
+    <legend>Contact details</legend>
+    <label>Email:Email:<br />
+    <input type="text" name="email" /></label><br />
+    <label>Mobile:<br />
+    <inout type="text" name="mobile"/></label><br />
+    <label>mobile:<br />
+    <label> Telephone" name="telephone" /></label>
+</fieldset>
